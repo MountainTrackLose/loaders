@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/anomaly-lockdown-tweaked-spam5-yn56dao6gp6ldo.lua"))()
