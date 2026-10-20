@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/scrooms-spam2-1bv2lucagdpl6g.lua"))()
