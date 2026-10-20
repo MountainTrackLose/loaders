@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/drive-a-tuk-tuk-spam2-cj650xknh095bi.lua"))()
