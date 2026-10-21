@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/interrogation-ai-spam7-4fwnq36eih9cx4.lua"))()
