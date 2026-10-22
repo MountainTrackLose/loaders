@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/prospecting-spam3-vf7z28nujmhzk2.lua"))()
