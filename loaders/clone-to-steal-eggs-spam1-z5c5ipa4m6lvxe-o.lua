@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/clone-to-steal-eggs-spam1-z5c5ipa4m6lvxe.lua"))()
