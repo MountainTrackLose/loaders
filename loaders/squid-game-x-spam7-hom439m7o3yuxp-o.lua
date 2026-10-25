@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/squid-game-x-spam7-hom439m7o3yuxp.lua"))()
