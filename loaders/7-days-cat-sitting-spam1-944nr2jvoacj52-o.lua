@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/7-days-cat-sitting-spam1-944nr2jvoacj52.lua"))()
