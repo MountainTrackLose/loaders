@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MountainTrackLose/loaders/main/loaders/3-days-crazy-skeleton-rng-spam2-u1rb95j1okx561.lua"))()
